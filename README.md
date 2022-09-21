@@ -8,6 +8,8 @@ I have a degree in control and automation engineering and during the course I ha
 
 ### Languages
 
+* Html
+* Css
 * Javascript
 * Java
 
