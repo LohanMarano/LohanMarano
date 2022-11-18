@@ -17,6 +17,7 @@ I have a degree in control and automation engineering and during the course I ha
 
 * React
 * React Native
+* Angular
 * Expo
 * Bootstrap
 * Tailwind
